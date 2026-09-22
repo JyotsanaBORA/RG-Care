@@ -29,4 +29,12 @@ uploads/
 .DS_Store
 Thumbs.db
 .codegpt
+
+# AI Agent / Customization files (Ponytail & Rules)
 .agents/
+AGENTS.md
+GEMINI.md
+.cursor/
+.claude/
+.clinerules
+ponytail*.md
